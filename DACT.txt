@@ -1,0 +1,32 @@
+
+﻿Food and Fastest path- Project's  Domain&Purpose
+
+
+
+This project considers the Changchun region as environment in which integrate heteogeneous data about delicious food in MeiTuan app ,map and taxi in GaoDe.Such kind of data carry the information about resturant,street name and detailed fastest path to there.
+
+
+
+The project final result(KG) can be used to provide a geneal purpose service helping the users to find the information related to what to eat and how to get there fast.This purpose can be described, in form of user request, as follows:
+
+
+
+“A service which help users to find what they want to eat and the fast way to get there in Changchun”
+
+
+
+Data sources:
+
+ https://cc.meituan.com/meishi/（美团）
+
+ https://www.autonavi.com/(高德地图+打车）
+
+Knowledge sources:
+
+ DBpedia https://www.dbpedia.org/
+
+ Schema.org https://schema.org/
+
+
+
+
